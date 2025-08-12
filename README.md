@@ -23,8 +23,8 @@
             <li> <a href="#recipe#3"> Recipe #3</a></li>
         </ol>
         
-        <h3 id="recipe#1">Recipe #1 Pistachio Pesto Pasta with Shrimp</h3>
-        <img src="https://www.allrecipes.com/thmb/v3IPPkWw2xWyCB_VmvE0p182WtE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8789185_Pistachio-Pesto-Pasta-with-Shrimp_TheDailyGourmet_4x3-9d1c0fd3c90844ce97f9d0700b4c3373.jpg"width="300">
+        <h3 id="recipe#1"> Recipe #1 Pistachio Pesto Pasta with Shrimp</h3>
+        <img src="https://www.allrecipes.com/thmb/v3IPPkWw2xWyCB_VmvE0p182WtE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8789185_Pistachio-Pesto-Pasta-with-Shrimp_TheDailyGourmet_4x3-9d1c0fd3c90844ce97f9d0700b4c3373.jpg" width="300" alt="Pasta">
         <ul>
             <li>Time: 15min</li>
             <li>Serves: 4 </li>
@@ -100,7 +100,7 @@
         <p><strong>Step 7:</strong > Add shrimp to pasta. Add reserved pasta water if needed to thin sauce, and serve.</p>
         
         <h3 id="recipe#2">Recipe #2 Peach Burrata Salad</h3>
-        <img src="https://www.allrecipes.com/thmb/XUfRyej8cZU6uUB1iuGvgIsdmqQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3689243-cfdef1bd11324cb1904f289faa9fd85d.jpg"width="300">
+        <img src="https://www.allrecipes.com/thmb/XUfRyej8cZU6uUB1iuGvgIsdmqQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3689243-cfdef1bd11324cb1904f289faa9fd85d.jpg" width="300" alt="Salad">
         <ul>
             <li>Time: 15min</li>
             <li>Serves: 4 </li>
@@ -148,7 +148,7 @@
         <p><strong>Step 2:</strong> Bring raspberry balsamic vinegar to a boil in a small saucepan; reduce heat to medium-low and simmer until vinegar reduces to a thick syrup, about 5 minutes. Spoon balsamic syrup over peaches and cheese; season with sea salt and black pepper.</p>
         
         <h3 id="recipe#3">Recipe #3 Pineapple Coconut Dream Cake</h3>
-        <img src="https://www.allrecipes.com/thmb/usqZ0Oj62U0fovncj9Y9SJNv7as=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/11772684-Pineapple-Coconut-Dream-Cake-DDMFS-Beauty-4x3-6bc6a8af7b2b4065be7563e43f833ee3.jpg" width="300">
+        <img src="https://www.allrecipes.com/thmb/usqZ0Oj62U0fovncj9Y9SJNv7as=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/11772684-Pineapple-Coconut-Dream-Cake-DDMFS-Beauty-4x3-6bc6a8af7b2b4065be7563e43f833ee3.jpg" width="300" alt="Cake">
         <ul>
             <li>Time: 1 hr 30 mins</li>
             <li>Serves: 12 </li>
